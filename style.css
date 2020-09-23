@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 15% 0 15%;
+}
+.dept-img{
+    
+    padding-right: 10px;
+}
+.img-description{
+    display: block;
+    text-align: center;
+}
+
+.contact-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: darkgray;
+    padding: 30px 20px;
+}
+.contact{
+    line-height: 40px;
+}
